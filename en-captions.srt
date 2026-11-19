@@ -1,0 +1,879 @@
+1
+00:00:00,400 --> 00:00:02,705
+The Legend of the Pineapple
+파인애플의 전설
+
+2
+00:00:02,705 --> 00:00:08,841
+Once upon a time, a little girl named Pina lived in a sunny village in the Philippines.
+옛날 옛적, 햇살이 반짝이는 필리핀의 작은 마을에 피나라는 소녀가 살았어요.
+
+3
+00:00:08,841 --> 00:00:11,366
+“Mother! What a beautiful day!”
+“엄마! 오늘 날씨가 정말 좋아요!”
+
+4
+00:00:11,366 --> 00:00:16,481
+“Yes, my dear. The sun is shining as brightly as your smile!”
+“그러게, 우리 피나처럼 환하게 빛나는 날이구나.”
+
+5
+00:00:16,481 --> 00:00:18,438
+“Pina, could you help me, dear?”
+“피나야, 엄마 좀 도와줄래?”
+
+6
+00:00:18,438 --> 00:00:20,590
+“Mother, can I play a little longer?”
+“엄마, 조금만 더 놀면 안 돼요?”
+
+7
+00:00:20,590 --> 00:00:23,912
+“All right, sweetheart. Just a little longer.”
+“그래, 조금만 더 놀렴.”
+
+8
+00:00:23,912 --> 00:00:27,574
+Once again, her mother did the housework alone.
+어머니는 오늘도 혼자 집안일을 하셨어요.
+
+9
+00:00:27,574 --> 00:00:29,695
+“Mother, how much do you love me?”
+“엄마, 저를 얼마나 사랑하세요?”
+
+10
+00:00:29,695 --> 00:00:32,634
+“As wide as the sky and as deep as the sea!”
+“하늘만큼, 바다만큼 사랑하지!”
+
+11
+00:00:32,634 --> 00:00:33,682
+“Really?”
+“정말요?”
+
+12
+00:00:33,682 --> 00:00:37,397
+“Of course! You're my most precious treasure.”
+“그럼! 넌 엄마의 가장 소중한 보물이란다.”
+
+13
+00:00:37,397 --> 00:00:39,735
+Pina smiled happily.
+피나는 행복하게 웃었어요.
+
+14
+00:00:39,735 --> 00:00:42,558
+One day, Pina's mother became very ill.
+어느 날, 어머니가 몹시 아프셨어요.
+
+15
+00:00:42,558 --> 00:00:44,574
+“Mother, why aren't you getting up?”
+“엄마, 왜 일어나지 않으세요?”
+
+16
+00:00:44,574 --> 00:00:46,418
+“I feel very weak, Pina.”
+“몸에 힘이 하나도 없구나, 피나야.”
+
+17
+00:00:46,418 --> 00:00:48,244
+“Are you feeling very sick?”
+“엄마, 많이 아프세요?”
+
+18
+00:00:48,244 --> 00:00:50,930
+“I just need some rest, sweetheart.”
+“조금 쉬면 나아질 거야, 아가.”
+
+19
+00:00:50,930 --> 00:00:53,312
+“Pina, could you do something for me?”
+“피나야, 엄마 부탁 하나 들어줄래?”
+
+20
+00:00:53,312 --> 00:00:54,827
+“What is it, Mother?”
+“무슨 부탁인데요, 엄마?”
+
+21
+00:00:54,827 --> 00:00:59,578
+“Could you make me some warm porridge? It might help me feel stronger.”
+“따뜻한 죽을 조금 끓여 주겠니? 먹으면 힘이 날 것 같구나.”
+
+22
+00:00:59,578 --> 00:01:01,468
+“Me? All by myself?”
+“제가요? 혼자서요?”
+
+23
+00:01:01,468 --> 00:01:04,225
+“Mother, I've never made porridge before!”
+“엄마, 저는 죽을 끓여 본 적이 없어요!”
+
+24
+00:01:04,225 --> 00:01:07,182
+“That's all right, Pina. Just take your time.”
+“괜찮아, 피나야. 천천히 해 보면 된단다.”
+
+25
+00:01:07,182 --> 00:01:08,991
+“But it looks so difficult!”
+“그래도 너무 어려울 것 같아요.”
+
+26
+00:01:08,991 --> 00:01:10,869
+Pina pouted.
+피나는 입술을 삐죽 내밀었어요.
+
+27
+00:01:10,869 --> 00:01:14,305
+“Pina, nobody knows how to do everything at first.”
+“피나야, 처음부터 잘하는 사람은 없단다.”
+
+28
+00:01:14,305 --> 00:01:16,331
+“Do you really think I can do it?”
+“정말 저도 할 수 있을까요?”
+
+29
+00:01:16,331 --> 00:01:19,409
+“Of course, sweetheart. I believe in you.”
+“물론이지. 엄마는 우리 피나를 믿어.”
+
+30
+00:01:19,409 --> 00:01:22,154
+“Well… I'll give it a try.”
+“음… 그럼 한번 해 볼게요.”
+
+31
+00:01:22,154 --> 00:01:24,361
+Pina walked into the kitchen.
+피나는 부엌으로 걸어갔어요.
+
+32
+00:01:24,361 --> 00:01:26,941
+“Let's see. What should I find first?”
+“자, 어디 보자. 먼저 뭘 찾아야 하지?”
+
+33
+00:01:26,941 --> 00:01:28,814
+“Rice, water, and a pot!”
+“쌀이랑 물, 그리고 냄비!”
+
+34
+00:01:28,814 --> 00:01:32,917
+She talked to herself as she looked around the shelves.
+피나는 혼잣말을 하며 선반을 살펴보았어요.
+
+35
+00:01:32,917 --> 00:01:34,852
+“I found the rice and the pot!”
+“쌀도 찾았고, 냄비도 찾았고!”
+
+36
+00:01:34,852 --> 00:01:37,117
+Pina felt happy for a moment.
+피나는 잠시 기뻐했어요.
+
+37
+00:01:37,117 --> 00:01:40,706
+“But… where's the ladle for stirring the porridge?”
+“그런데… 죽을 저을 국자는 어디 있지?”
+
+38
+00:01:40,706 --> 00:01:43,148
+She couldn't see it anywhere.
+아무리 둘러봐도 국자가 눈에 띄지 않았어요.
+
+39
+00:01:43,148 --> 00:01:45,543
+“Mother! I can't find the ladle!”
+“엄마! 국자가 없어요!”
+
+40
+00:01:45,543 --> 00:01:47,968
+“Pina, look carefully on the shelf.”
+“피나야, 선반을 잘 살펴보렴.”
+
+41
+00:01:47,968 --> 00:01:50,742
+“I’ve already looked! It's not there!”
+“찾아봤어요! 그런데 없단 말이에요!”
+
+42
+00:01:50,742 --> 00:01:53,224
+Pina's voice grew louder.
+피나의 목소리가 점점 커졌어요.
+
+43
+00:01:53,224 --> 00:01:56,243
+“My dear Pina, could you look a little longer?”
+“우리 피나, 조금만 더 찾아보겠니?”
+
+44
+00:01:56,243 --> 00:01:58,009
+“But I don't know where it is.”
+“하지만 어디에 있는지 모르겠어요.”
+
+45
+00:01:58,009 --> 00:02:03,215
+“Don't rush. Look in each corner carefully. I'm sure you'll find it.”
+“서두르지 말고 하나씩 살펴보렴. 분명 찾을 수 있을 거야.”
+
+46
+00:02:03,215 --> 00:02:06,173
+“I don't want to! I just can't find it!”
+“싫어요! 아무리 찾아봐도 없어요!”
+
+47
+00:02:06,173 --> 00:02:08,529
+“Pina, you know Mother is very sick.”
+“피나야, 엄마가 많이 아프잖니.”
+
+48
+00:02:08,529 --> 00:02:10,400
+“But it's hard for me, too!”
+“저도 힘들단 말이에요!”
+
+49
+00:02:10,400 --> 00:02:13,702
+Pina finally sat down on the kitchen floor.
+피나는 결국 부엌 바닥에 털썩 주저앉았어요.
+
+50
+00:02:13,702 --> 00:02:17,015
+Her mother began to cry from pain and exhaustion.
+어머니는 아프고 지친 마음에 눈물을 흘렸어요.
+
+51
+00:02:17,015 --> 00:02:20,349
+“Oh, Pina… I wish you had a thousand eyes.”
+“아이고, 피나야… 네게 눈이 천 개나 있다면 좋겠구나.”
+
+52
+00:02:20,349 --> 00:02:24,893
+“Then you could find what you need, even when I'm not beside you…”
+“그러면 엄마가 없어도 필요한 것을 스스로 찾을 수 있을 텐데…”
+
+53
+00:02:24,893 --> 00:02:27,829
+Her voice was filled with sadness.
+어머니의 목소리에는 깊은 슬픔이 담겨 있었어요.
+
+54
+00:02:27,829 --> 00:02:28,850
+“Pina…?”
+“피나야…?”
+
+55
+00:02:28,850 --> 00:02:33,928
+The whole house suddenly became quiet. Pina's voice could no longer be heard.
+조금 전까지 들리던 피나의 목소리가 더 이상 들리지 않았답니다.
+
+56
+00:02:33,928 --> 00:02:36,320
+But at that very moment…
+그런데 바로 그때였어요.
+
+57
+00:02:36,320 --> 00:02:37,987
+“Pina! Where are you?”
+“피나야! 어디 있니?”
+
+58
+00:02:37,987 --> 00:02:40,281
+Her mother called again and again.
+어머니는 몇 번이고 불렀어요.
+
+59
+00:02:40,281 --> 00:02:46,663
+“My dear, I only said those words because I was upset. Pina, please answer me…”
+“엄마가 아까는 속상해서 그랬단다. 피나야, 대답해 주렴…”
+
+60
+00:02:46,663 --> 00:02:48,884
+But there was no reply.
+하지만 아무런 대답도 들리지 않았어요.
+
+61
+00:02:48,884 --> 00:02:51,532
+“What happened? Are you feeling ill?”
+“무슨 일이에요? 어디가 편찮으세요?”
+
+62
+00:02:51,532 --> 00:02:54,065
+The neighbors came with worried faces.
+이웃들이 걱정하며 찾아왔어요.
+
+63
+00:02:54,065 --> 00:02:56,259
+“My daughter Pina is missing…”
+“우리 피나가 사라졌어요…”
+
+64
+00:02:56,259 --> 00:02:58,986
+“Don't worry. We'll help you find her.”
+“걱정 마세요. 저희가 함께 찾아드릴게요.”
+
+65
+00:02:58,986 --> 00:03:03,576
+They made warm porridge and lovingly cared for her mother.
+이웃들은 따뜻한 죽을 끓여 주며 어머니를 보살폈어요.
+
+66
+00:03:03,576 --> 00:03:07,239
+When her mother recovered, she searched the whole village.
+몸이 나은 어머니는 온 마을을 돌아다녔어요.
+
+67
+00:03:07,239 --> 00:03:09,291
+“Have you seen my daughter Pina?”
+“혹시 우리 피나를 보셨나요?”
+
+68
+00:03:09,291 --> 00:03:11,650
+“I'm sorry. We haven't seen her.”
+“미안해요. 아직 보지 못했어요.”
+
+69
+00:03:11,650 --> 00:03:14,242
+“Pina, Mother is waiting for you…”
+“피나야, 엄마가 기다리고 있단다…”
+
+70
+00:03:14,242 --> 00:03:17,223
+Every day, she missed her daughter.
+어머니는 날마다 딸을 그리워했어요.
+
+71
+00:03:17,223 --> 00:03:21,645
+One morning, Pina's mother found a strange fruit in the backyard.
+어느 날 아침, 어머니는 뒤뜰에서 신기한 열매를 발견했어요.
+
+72
+00:03:21,645 --> 00:03:23,955
+“Oh my, what kind of fruit is this?”
+“어머, 이건 무슨 열매일까?”
+
+73
+00:03:23,955 --> 00:03:29,113
+The fruit among the pointed leaves was covered with tiny eye-shaped marks.
+뾰족한 잎 사이에 달린 열매에는 작은 눈 같은 무늬가 가득했어요.
+
+74
+00:03:29,113 --> 00:03:32,518
+“I've never seen a fruit with so many eyes!”
+“이렇게 눈이 많은 열매는 처음 보는구나!”
+
+75
+00:03:32,518 --> 00:03:36,336
+Suddenly, her mother remembered the words she had spoken.
+어머니는 문득 자신이 했던 말을 떠올렸어요.
+
+76
+00:03:36,336 --> 00:03:38,872
+“I wished you had a thousand eyes…”
+“눈이 천 개나 있다면 좋겠다고 했는데…”
+
+77
+00:03:38,872 --> 00:03:41,071
+“Pina… Could that be you?”
+“피나야… 혹시 너니?”
+
+78
+00:03:41,071 --> 00:03:43,067
+She gently touched the fruit.
+어머니는 열매를 다정히 어루만졌어요.
+
+79
+00:03:43,067 --> 00:03:46,252
+“My dear Pina, I will love you forever.”
+“사랑하는 피나야, 엄마는 언제나 너를 사랑한단다.”
+
+80
+00:03:46,252 --> 00:03:50,992
+Her mother cared for the plant as lovingly as she had cared for Pina.
+어머니는 그 열매를 피나처럼 소중하게 돌보았어요.
+
+81
+00:03:50,992 --> 00:03:54,145
+“What a sweet fruit! What is it called?”
+“참 달콤한 과일이네요! 이름이 무엇인가요?”
+
+82
+00:03:54,145 --> 00:03:57,693
+“I'd like to call it ‘Pinya,’ in memory of my daughter Pina.”
+“우리 딸 피나를 기억하며 ‘피냐’라고 부르고 싶어요.”
+
+83
+00:03:57,693 --> 00:04:02,213
+From that day on, people called the fruit “Pinya,” or pineapple.
+그날부터 사람들은 그 열매를 ‘피냐(Pinya)’, 파인애플이라고 불렀답니다.
+
+84
+00:04:02,213 --> 00:04:05,472
+Pina's story lived on in everyone's hearts.
+피나의 이야기는 사람들의 마음속에 오래도록 남았어요.
+
+85
+00:04:05,472 --> 00:04:09,352
+The pineapple's many eyes remind us of an important lesson.
+파인애플의 수많은 눈은 우리에게 소중한 가르침을 전해 줍니다.
+
+86
+00:04:09,352 --> 00:04:15,490
+Learn to do little things on your own, care for the people you love, and speak with kindness.
+작은 일부터 스스로 해 보고, 사랑하는 사람의 마음을 살피며, 서로에게 따뜻한 말을 건네보세요.
+
+87
+00:04:15,490 --> 00:04:18,272
+True love begins with small acts of care.
+진정한 사랑은 작은 실천과 배려에서 시작된답니다.
+
+88
+00:04:18,272 --> 00:04:28,418
+If Pina and her mother had understood each other's feelings and spoken with kindness, perhaps their story could have had a different ending, don't you think?
+사랑하는 사람의 마음을 헤아리고 따뜻한 말을 건넸다면, 피냐와 어머니의 이야기도 다른 결말을 맞이할 수 있었겠지요?
+
+89
+00:04:31,418 --> 00:04:34,037
+파인애플의 전설
+The Legend of the Pineapple
+
+90
+00:04:34,037 --> 00:04:40,905
+옛날 옛적, 햇살이 반짝이는 필리핀의 작은 마을에 피나라는 소녀가 살았어요.
+Once upon a time, a little girl named Pina lived in a sunny village in the Philippines.
+
+91
+00:04:40,905 --> 00:04:44,425
+“엄마! 오늘 날씨가 정말 좋아요!”
+“Mother! What a beautiful day!”
+
+92
+00:04:44,425 --> 00:04:48,866
+“그러게, 우리 피나처럼 환하게 빛나는 날이구나.”
+“Yes, my dear. The sun is shining as brightly as your smile!”
+
+93
+00:04:48,866 --> 00:04:50,901
+“피나야, 엄마 좀 도와줄래?”
+“Pina, could you help me, dear?”
+
+94
+00:04:50,901 --> 00:04:53,519
+“엄마, 조금만 더 놀면 안 돼요?”
+“Mother, can I play a little longer?”
+
+95
+00:04:53,519 --> 00:04:55,552
+“그래, 조금만 더 놀렴.”
+“All right, sweetheart. Just a little longer.”
+
+96
+00:04:55,552 --> 00:04:59,214
+어머니는 오늘도 혼자 집안일을 하셨어요.
+Once again, her mother did the housework alone.
+
+97
+00:04:59,214 --> 00:05:01,833
+“엄마, 저를 얼마나 사랑하세요?”
+“Mother, how much do you love me?”
+
+98
+00:05:01,833 --> 00:05:04,343
+“하늘만큼, 바다만큼 사랑하지!”
+“As wide as the sky and as deep as the sea!”
+
+99
+00:05:04,343 --> 00:05:05,579
+“정말요?”
+“Really?”
+
+100
+00:05:05,579 --> 00:05:09,726
+“그럼! 넌 엄마의 가장 소중한 보물이란다.”
+“Of course! You're my most precious treasure.”
+
+101
+00:05:09,726 --> 00:05:12,450
+피나는 행복하게 웃었어요.
+Pina smiled happily.
+
+102
+00:05:12,450 --> 00:05:15,209
+어느 날, 어머니가 몹시 아프셨어요.
+One day, Pina's mother became very ill.
+
+103
+00:05:15,209 --> 00:05:17,433
+“엄마, 왜 일어나지 않으세요?”
+“Mother, why aren't you getting up?”
+
+104
+00:05:17,433 --> 00:05:20,017
+“몸에 힘이 하나도 없구나, 피나야.”
+“I feel very weak, Pina.”
+
+105
+00:05:20,017 --> 00:05:21,862
+“엄마, 많이 아프세요?”
+“Are you feeling very sick?”
+
+106
+00:05:21,862 --> 00:05:24,596
+“조금 쉬면 나아질 거야, 아가.”
+“I just need some rest, sweetheart.”
+
+107
+00:05:24,596 --> 00:05:27,190
+“피나야, 엄마 부탁 하나 들어줄래?”
+“Pina, could you do something for me?”
+
+108
+00:05:27,190 --> 00:05:29,077
+“무슨 부탁인데요, 엄마?”
+“What is it, Mother?”
+
+109
+00:05:29,077 --> 00:05:34,182
+“따뜻한 죽을 조금 끓여 주겠니? 먹으면 힘이 날 것 같구나.”
+“Could you make me some warm porridge? It might help me feel stronger.”
+
+110
+00:05:34,182 --> 00:05:35,988
+“제가요? 혼자서요?”
+“Me? All by myself?”
+
+111
+00:05:35,988 --> 00:05:39,264
+“엄마, 저는 죽을 끓여 본 적이 없어요!”
+“Mother, I've never made porridge before!”
+
+112
+00:05:39,264 --> 00:05:43,156
+“괜찮아, 피나야. 천천히 해 보면 된단다.”
+“That's all right, Pina. Just take your time.”
+
+113
+00:05:43,156 --> 00:05:45,356
+“그래도 너무 어려울 것 같아요.”
+“But it looks so difficult!”
+
+114
+00:05:45,356 --> 00:05:48,389
+피나는 입술을 삐죽 내밀었어요.
+Pina pouted.
+
+115
+00:05:48,389 --> 00:05:51,618
+“피나야, 처음부터 잘하는 사람은 없단다.”
+“Pina, nobody knows how to do everything at first.”
+
+116
+00:05:51,618 --> 00:05:53,666
+“정말 저도 할 수 있을까요?”
+“Do you really think I can do it?”
+
+117
+00:05:53,666 --> 00:05:57,026
+“물론이지. 엄마는 우리 피나를 믿어.”
+“Of course, sweetheart. I believe in you.”
+
+118
+00:05:57,026 --> 00:06:00,331
+“음… 그럼 한번 해 볼게요.”
+“Well… I'll give it a try.”
+
+119
+00:06:00,331 --> 00:06:02,679
+피나는 부엌으로 걸어갔어요.
+Pina walked into the kitchen.
+
+120
+00:06:02,679 --> 00:06:06,033
+“자, 어디 보자. 먼저 뭘 찾아야 하지?”
+“Let's see. What should I find first?”
+
+121
+00:06:06,033 --> 00:06:08,319
+“쌀이랑 물, 그리고 냄비!”
+“Rice, water, and a pot!”
+
+122
+00:06:08,319 --> 00:06:12,203
+피나는 혼잣말을 하며 선반을 살펴보았어요.
+She talked to herself as she looked around the shelves.
+
+123
+00:06:12,203 --> 00:06:14,895
+“쌀도 찾았고, 냄비도 찾았고!”
+“I found the rice and the pot!”
+
+124
+00:06:14,895 --> 00:06:16,910
+피나는 잠시 기뻐했어요.
+Pina felt happy for a moment.
+
+125
+00:06:16,910 --> 00:06:20,492
+“그런데… 죽을 저을 국자는 어디 있지?”
+“But… where's the ladle for stirring the porridge?”
+
+126
+00:06:20,492 --> 00:06:24,492
+아무리 둘러봐도 국자가 눈에 띄지 않았어요.
+She couldn't see it anywhere.
+
+127
+00:06:24,492 --> 00:06:26,956
+“엄마! 국자가 없어요!”
+“Mother! I can't find the ladle!”
+
+128
+00:06:26,956 --> 00:06:29,528
+“피나야, 선반을 잘 살펴보렴.”
+“Pina, look carefully on the shelf.”
+
+129
+00:06:29,528 --> 00:06:32,944
+“찾아봤어요! 그런데 없단 말이에요!”
+“I’ve already looked! It's not there!”
+
+130
+00:06:32,944 --> 00:06:36,017
+피나의 목소리가 점점 커졌어요.
+Pina's voice grew louder.
+
+131
+00:06:36,017 --> 00:06:38,655
+“우리 피나, 조금만 더 찾아보겠니?”
+“My dear Pina, could you look a little longer?”
+
+132
+00:06:38,655 --> 00:06:41,196
+“하지만 어디에 있는지 모르겠어요.”
+“But I don't know where it is.”
+
+133
+00:06:41,196 --> 00:06:46,789
+“서두르지 말고 하나씩 살펴보렴. 분명 찾을 수 있을 거야.”
+“Don't rush. Look in each corner carefully. I'm sure you'll find it.”
+
+134
+00:06:46,789 --> 00:06:49,962
+“싫어요! 아무리 찾아봐도 없어요!”
+“I don't want to! I just can't find it!”
+
+135
+00:06:49,962 --> 00:06:52,277
+“피나야, 엄마가 많이 아프잖니.”
+“Pina, you know Mother is very sick.”
+
+136
+00:06:52,277 --> 00:06:54,175
+“저도 힘들단 말이에요!”
+“But it's hard for me, too!”
+
+137
+00:06:54,175 --> 00:06:58,791
+피나는 결국 부엌 바닥에 털썩 주저앉았어요.
+Pina finally sat down on the kitchen floor.
+
+138
+00:06:58,791 --> 00:07:02,393
+어머니는 아프고 지친 마음에 눈물을 흘렸어요.
+Her mother began to cry from pain and exhaustion.
+
+139
+00:07:02,393 --> 00:07:07,248
+“아이고, 피나야… 네게 눈이 천 개나 있다면 좋겠구나.”
+“Oh, Pina… I wish you had a thousand eyes.”
+
+140
+00:07:07,248 --> 00:07:12,634
+“그러면 엄마가 없어도 필요한 것을 스스로 찾을 수 있을 텐데…”
+“Then you could find what you need, even when I'm not beside you…”
+
+141
+00:07:12,634 --> 00:07:16,926
+어머니의 목소리에는 깊은 슬픔이 담겨 있었어요.
+Her voice was filled with sadness.
+
+142
+00:07:16,926 --> 00:07:18,161
+“피나야…?”
+“Pina…?”
+
+143
+00:07:18,161 --> 00:07:23,204
+조금 전까지 들리던 피나의 목소리가 더 이상 들리지 않았답니다.
+The whole house suddenly became quiet. Pina's voice could no longer be heard.
+
+144
+00:07:23,204 --> 00:07:25,739
+그런데 바로 그때였어요.
+But at that very moment…
+
+145
+00:07:25,739 --> 00:07:27,615
+“피나야! 어디 있니?”
+“Pina! Where are you?”
+
+146
+00:07:27,615 --> 00:07:29,878
+어머니는 몇 번이고 불렀어요.
+Her mother called again and again.
+
+147
+00:07:29,878 --> 00:07:35,551
+“엄마가 아까는 속상해서 그랬단다. 피나야, 대답해 주렴…”
+“My dear, I only said those words because I was upset. Pina, please answer me…”
+
+148
+00:07:35,551 --> 00:07:38,888
+하지만 아무런 대답도 들리지 않았어요.
+But there was no reply.
+
+149
+00:07:38,888 --> 00:07:41,879
+“무슨 일이에요? 어디가 편찮으세요?”
+“What happened? Are you feeling ill?”
+
+150
+00:07:41,879 --> 00:07:44,213
+이웃들이 걱정하며 찾아왔어요.
+The neighbors came with worried faces.
+
+151
+00:07:44,213 --> 00:07:46,375
+“우리 피나가 사라졌어요…”
+“My daughter Pina is missing…”
+
+152
+00:07:46,375 --> 00:07:50,154
+“걱정 마세요. 저희가 함께 찾아드릴게요.”
+“Don't worry. We'll help you find her.”
+
+153
+00:07:50,154 --> 00:07:55,114
+이웃들은 따뜻한 죽을 끓여 주며 어머니를 보살폈어요.
+They made warm porridge and lovingly cared for her mother.
+
+154
+00:07:55,114 --> 00:07:58,549
+몸이 나은 어머니는 온 마을을 돌아다녔어요.
+When her mother recovered, she searched the whole village.
+
+155
+00:07:58,549 --> 00:08:00,552
+“혹시 우리 피나를 보셨나요?”
+“Have you seen my daughter Pina?”
+
+156
+00:08:00,552 --> 00:08:03,248
+“미안해요. 아직 보지 못했어요.”
+“I'm sorry. We haven't seen her.”
+
+157
+00:08:03,248 --> 00:08:06,352
+“피나야, 엄마가 기다리고 있단다…”
+“Pina, Mother is waiting for you…”
+
+158
+00:08:06,352 --> 00:08:09,710
+어머니는 날마다 딸을 그리워했어요.
+Every day, she missed her daughter.
+
+159
+00:08:09,710 --> 00:08:14,665
+어느 날 아침, 어머니는 뒤뜰에서 신기한 열매를 발견했어요.
+One morning, Pina's mother found a strange fruit in the backyard.
+
+160
+00:08:14,665 --> 00:08:16,760
+“어머, 이건 무슨 열매일까?”
+“Oh my, what kind of fruit is this?”
+
+161
+00:08:16,760 --> 00:08:22,378
+뾰족한 잎 사이에 달린 열매에는 작은 눈 같은 무늬가 가득했어요.
+The fruit among the pointed leaves was covered with tiny eye-shaped marks.
+
+162
+00:08:22,378 --> 00:08:26,155
+“이렇게 눈이 많은 열매는 처음 보는구나!”
+“I've never seen a fruit with so many eyes!”
+
+163
+00:08:26,155 --> 00:08:29,540
+어머니는 문득 자신이 했던 말을 떠올렸어요.
+Suddenly, her mother remembered the words she had spoken.
+
+164
+00:08:29,540 --> 00:08:32,943
+“눈이 천 개나 있다면 좋겠다고 했는데…”
+“I wished you had a thousand eyes…”
+
+165
+00:08:32,943 --> 00:08:35,143
+“피나야… 혹시 너니?”
+“Pina… Could that be you?”
+
+166
+00:08:35,143 --> 00:08:38,098
+어머니는 열매를 다정히 어루만졌어요.
+She gently touched the fruit.
+
+167
+00:08:38,098 --> 00:08:42,728
+“사랑하는 피나야, 엄마는 언제나 너를 사랑한단다.”
+“My dear Pina, I will love you forever.”
+
+168
+00:08:42,728 --> 00:08:46,769
+어머니는 그 열매를 피나처럼 소중하게 돌보았어요.
+Her mother cared for the plant as lovingly as she had cared for Pina.
+
+169
+00:08:46,769 --> 00:08:51,186
+“참 달콤한 과일이네요! 이름이 무엇인가요?”
+“What a sweet fruit! What is it called?”
+
+170
+00:08:51,186 --> 00:08:54,896
+“우리 딸 피나를 기억하며 ‘피냐’라고 부르고 싶어요.”
+“I'd like to call it ‘Pinya,’ in memory of my daughter Pina.”
+
+171
+00:08:54,896 --> 00:09:00,138
+그날부터 사람들은 그 열매를 ‘피냐(Pinya)’, 파인애플이라고 불렀답니다.
+From that day on, people called the fruit “Pinya,” or pineapple.
+
+172
+00:09:00,138 --> 00:09:05,007
+피나의 이야기는 사람들의 마음속에 오래도록 남았어요.
+Pina's story lived on in everyone's hearts.
+
+173
+00:09:05,007 --> 00:09:10,017
+파인애플의 수많은 눈은 우리에게 소중한 가르침을 전해 줍니다.
+The pineapple's many eyes remind us of an important lesson.
+
+174
+00:09:10,017 --> 00:09:17,969
+작은 일부터 스스로 해 보고, 사랑하는 사람의 마음을 살피며, 서로에게 따뜻한 말을 건네보세요.
+Learn to do little things on your own, care for the people you love, and speak with kindness.
+
+175
+00:09:17,969 --> 00:09:22,166
+진정한 사랑은 작은 실천과 배려에서 시작된답니다.
+True love begins with small acts of care.
+
+176
+00:09:22,166 --> 00:09:33,368
+사랑하는 사람의 마음을 헤아리고 따뜻한 말을 건넸다면, 피냐와 어머니의 이야기도 다른 결말을 맞이할 수 있었겠지요?
+If Pina and her mother had understood each other's feelings and spoken with kindness, perhaps their story could have had a different ending, don't you think?

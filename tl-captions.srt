@@ -1,0 +1,524 @@
+1
+00:00:00,000 --> 00:00:02,720
+Ang Alamat ng Pinya
+파인애플의 전설
+
+2
+00:00:02,720 --> 00:00:11,740
+Noong unang panahon, may isang batang babae na nagngangalang Pina na nakatira sa isang maliit at maaraw na nayon sa Pilipinas.
+옛날 옛적, 햇살이 반짝이는 필리핀의 작은 마을에 피나라는 소녀가 살았어요.
+
+3
+00:00:11,740 --> 00:00:14,940
+“Inay! Ang ganda po ng panahon ngayon!”
+“엄마! 오늘 날씨가 정말 좋아요!”
+
+4
+00:00:14,940 --> 00:00:19,300
+“Oo, anak. Kasingliwanag ng iyong ngiti ang araw!”
+“그러게, 우리 피나처럼 환하게 빛나는 날이구나.”
+
+5
+00:00:19,300 --> 00:00:22,690
+“Pina, maaari mo ba akong tulungan?”
+“피나야, 엄마 좀 도와줄래?”
+
+6
+00:00:22,690 --> 00:00:26,020
+“Inay, puwede po bang maglaro muna ako?”
+“엄마, 조금만 더 놀면 안 돼요?”
+
+7
+00:00:26,020 --> 00:00:28,830
+“Sige, anak. Maglaro ka muna.”
+“그래, 조금만 더 놀렴.”
+
+8
+00:00:28,830 --> 00:00:33,600
+Muling ginawa ng ina ang mga gawaing-bahay nang mag-isa.
+어머니는 오늘도 혼자 집안일을 하셨어요.
+
+9
+00:00:33,600 --> 00:00:36,900
+“Inay, gaano n'yo po ako kamahal?”
+“엄마, 저를 얼마나 사랑하세요?”
+
+10
+00:00:36,900 --> 00:00:40,100
+“Kasinglawak ng langit at dagat!”
+“하늘만큼, 바다만큼 사랑하지!”
+
+11
+00:00:40,100 --> 00:00:41,570
+“Talaga po?”
+“정말요?”
+
+12
+00:00:41,570 --> 00:00:45,980
+“Oo naman! Ikaw ang pinakamamahal kong kayamanan.”
+“그럼! 넌 엄마의 가장 소중한 보물이란다.”
+
+13
+00:00:45,980 --> 00:00:48,350
+Masayang ngumiti si Pina.
+피나는 행복하게 웃었어요.
+
+14
+00:00:48,350 --> 00:00:52,100
+Isang araw, nagkasakit nang malubha ang ina.
+어느 날, 어머니가 몹시 아프셨어요.
+
+15
+00:00:52,100 --> 00:00:55,650
+“Inay, bakit hindi po kayo bumabangon?”
+“엄마, 왜 일어나지 않으세요?”
+
+16
+00:00:55,650 --> 00:00:58,020
+“Wala akong lakas, Pina.”
+“몸에 힘이 하나도 없구나, 피나야.”
+
+17
+00:00:58,020 --> 00:01:01,340
+“Masama po ba ang pakiramdam ninyo?”
+“엄마, 많이 아프세요?”
+
+18
+00:01:01,340 --> 00:01:03,083
+“Magpapahinga lang ako, anak.”
+“조금 쉬면 나아질 거야, 아가.”
+
+19
+00:01:10,083 --> 00:01:12,701
+파인애플의 전설
+Ang Alamat ng Pinya
+
+20
+00:01:12,701 --> 00:01:19,569
+옛날 옛적, 햇살이 반짝이는 필리핀의 작은 마을에 피나라는 소녀가 살았어요.
+Noong unang panahon, may isang batang babae na nagngangalang Pina na nakatira sa isang maliit at maaraw na nayon sa Pilipinas.
+
+21
+00:01:19,569 --> 00:01:23,090
+“엄마! 오늘 날씨가 정말 좋아요!”
+“Inay! Ang ganda po ng panahon ngayon!”
+
+22
+00:01:23,090 --> 00:01:27,530
+“그러게, 우리 피나처럼 환하게 빛나는 날이구나.”
+“Oo, anak. Kasingliwanag ng iyong ngiti ang araw!”
+
+23
+00:01:27,530 --> 00:01:29,565
+“피나야, 엄마 좀 도와줄래?”
+“Pina, maaari mo ba akong tulungan?”
+
+24
+00:01:29,565 --> 00:01:32,184
+“엄마, 조금만 더 놀면 안 돼요?”
+“Inay, puwede po bang maglaro muna ako?”
+
+25
+00:01:32,184 --> 00:01:34,216
+“그래, 조금만 더 놀렴.”
+“Sige, anak. Maglaro ka muna.”
+
+26
+00:01:34,216 --> 00:01:37,878
+어머니는 오늘도 혼자 집안일을 하셨어요.
+Muling ginawa ng ina ang mga gawaing-bahay nang mag-isa.
+
+27
+00:01:37,878 --> 00:01:40,498
+“엄마, 저를 얼마나 사랑하세요?”
+“Inay, gaano n'yo po ako kamahal?”
+
+28
+00:01:40,498 --> 00:01:43,007
+“하늘만큼, 바다만큼 사랑하지!”
+“Kasinglawak ng langit at dagat!”
+
+29
+00:01:43,007 --> 00:01:44,243
+“정말요?”
+“Talaga po?”
+
+30
+00:01:44,243 --> 00:01:48,390
+“그럼! 넌 엄마의 가장 소중한 보물이란다.”
+“Oo naman! Ikaw ang pinakamamahal kong kayamanan.”
+
+31
+00:01:48,390 --> 00:01:51,115
+피나는 행복하게 웃었어요.
+Masayang ngumiti si Pina.
+
+32
+00:01:51,115 --> 00:01:53,873
+어느 날, 어머니가 몹시 아프셨어요.
+Isang araw, nagkasakit nang malubha ang ina.
+
+33
+00:01:53,873 --> 00:01:56,097
+“엄마, 왜 일어나지 않으세요?”
+“Inay, bakit hindi po kayo bumabangon?”
+
+34
+00:01:56,097 --> 00:01:58,681
+“몸에 힘이 하나도 없구나, 피나야.”
+“Wala akong lakas, Pina.”
+
+35
+00:01:58,681 --> 00:02:00,527
+“엄마, 많이 아프세요?”
+“Masama po ba ang pakiramdam ninyo?”
+
+36
+00:02:00,527 --> 00:02:03,260
+“조금 쉬면 나아질 거야, 아가.”
+“Magpapahinga lang ako, anak.”
+
+37
+00:02:03,260 --> 00:02:05,855
+“피나야, 엄마 부탁 하나 들어줄래?”
+“Pina, maaari ba akong humingi ng tulong?”
+
+38
+00:02:05,855 --> 00:02:07,741
+“무슨 부탁인데요, 엄마?”
+“Ano po iyon, Inay?”
+
+39
+00:02:07,741 --> 00:02:12,846
+“따뜻한 죽을 조금 끓여 주겠니? 먹으면 힘이 날 것 같구나.”
+“Maaari mo ba akong ipagluto ng mainit na lugaw? Baka lumakas ako kapag nakakain.”
+
+40
+00:02:12,846 --> 00:02:14,652
+“제가요? 혼자서요?”
+“Ako po? Mag-isa?”
+
+41
+00:02:14,652 --> 00:02:17,929
+“엄마, 저는 죽을 끓여 본 적이 없어요!”
+“Inay, hindi pa po ako nakapagluto ng lugaw!”
+
+42
+00:02:17,929 --> 00:02:21,820
+“괜찮아, 피나야. 천천히 해 보면 된단다.”
+“Ayos lang, Pina. Subukan mo lang nang dahan-dahan.”
+
+43
+00:02:21,820 --> 00:02:24,020
+“그래도 너무 어려울 것 같아요.”
+“Pero parang napakahirap po!”
+
+44
+00:02:24,020 --> 00:02:27,053
+피나는 입술을 삐죽 내밀었어요.
+Nakasimangot si Pina.
+
+45
+00:02:27,053 --> 00:02:30,282
+“피나야, 처음부터 잘하는 사람은 없단다.”
+“Pina, walang taong marunong agad sa lahat ng bagay.”
+
+46
+00:02:30,282 --> 00:02:32,331
+“정말 저도 할 수 있을까요?”
+“Talaga po bang kaya ko?”
+
+47
+00:02:32,331 --> 00:02:35,690
+“물론이지. 엄마는 우리 피나를 믿어.”
+“Siyempre, anak. Naniniwala ako sa iyo.”
+
+48
+00:02:35,690 --> 00:02:38,995
+“음… 그럼 한번 해 볼게요.”
+“Sige po… Susubukan ko.”
+
+49
+00:02:38,995 --> 00:02:41,343
+피나는 부엌으로 걸어갔어요.
+Pumunta si Pina sa kusina.
+
+50
+00:02:41,343 --> 00:02:44,698
+“자, 어디 보자. 먼저 뭘 찾아야 하지?”
+“Tingnan natin. Ano kaya ang una kong hahanapin?”
+
+51
+00:02:44,698 --> 00:02:46,984
+“쌀이랑 물, 그리고 냄비!”
+“Bigas, tubig, at kaserola!”
+
+52
+00:02:46,984 --> 00:02:50,867
+피나는 혼잣말을 하며 선반을 살펴보았어요.
+Kinausap ni Pina ang sarili habang tumitingin sa istante.
+
+53
+00:02:50,867 --> 00:02:53,559
+“쌀도 찾았고, 냄비도 찾았고!”
+“Nakita ko na ang bigas at kaserola!”
+
+54
+00:02:53,559 --> 00:02:55,574
+피나는 잠시 기뻐했어요.
+Saglit na natuwa si Pina.
+
+55
+00:02:55,574 --> 00:02:59,157
+“그런데… 죽을 저을 국자는 어디 있지?”
+“Pero… nasaan ang sandok na panghalo ng lugaw?”
+
+56
+00:02:59,157 --> 00:03:03,156
+아무리 둘러봐도 국자가 눈에 띄지 않았어요.
+Hindi niya makita ang sandok.
+
+57
+00:03:03,156 --> 00:03:05,620
+“엄마! 국자가 없어요!”
+“Inay! Wala po ang sandok!”
+
+58
+00:03:05,620 --> 00:03:08,192
+“피나야, 선반을 잘 살펴보렴.”
+“Pina, tingnan mong mabuti ang istante.”
+
+59
+00:03:08,192 --> 00:03:11,609
+“찾아봤어요! 그런데 없단 말이에요!”
+“Tiningnan ko na po! Wala talaga!”
+
+60
+00:03:11,609 --> 00:03:14,681
+피나의 목소리가 점점 커졌어요.
+Palakas nang palakas ang boses ni Pina.
+
+61
+00:03:14,681 --> 00:03:17,319
+“우리 피나, 조금만 더 찾아보겠니?”
+“Pina, anak, maaari mo bang hanapin pa nang kaunti?”
+
+62
+00:03:17,319 --> 00:03:19,860
+“하지만 어디에 있는지 모르겠어요.”
+“Pero hindi ko po alam kung nasaan iyon.”
+
+63
+00:03:19,860 --> 00:03:25,454
+“서두르지 말고 하나씩 살펴보렴. 분명 찾을 수 있을 거야.”
+“Huwag kang magmadali. Tingnan mo ang bawat sulok. Sigurado akong makikita mo rin iyon.”
+
+64
+00:03:25,454 --> 00:03:28,507
+“싫어요! 아무리 찾아도 없어요!”
+“Ayaw ko na po! Hindi ko talaga makita!”
+
+65
+00:03:28,507 --> 00:03:30,822
+“피나야, 엄마가 많이 아프잖니.”
+“Pina, may sakit si Inay.”
+
+66
+00:03:30,822 --> 00:03:32,720
+“저도 힘들단 말이에요!”
+“Pero nahihirapan din po ako!”
+
+67
+00:03:32,720 --> 00:03:37,336
+피나는 결국 부엌 바닥에 털썩 주저앉았어요.
+Umupo na lamang si Pina sa sahig ng kusina.
+
+68
+00:03:37,336 --> 00:03:40,938
+어머니는 아프고 지친 마음에 눈물을 흘렸어요.
+Napaluha ang ina dahil sa sakit at pagod.
+
+69
+00:03:40,938 --> 00:03:45,793
+“아이고, 피나야… 네게 눈이 천 개나 있다면 좋겠구나.”
+“Naku, Pina… Sana ay magkaroon ka ng isang libong mata.”
+
+70
+00:03:45,793 --> 00:03:51,179
+“그러면 엄마가 없어도 필요한 것을 스스로 찾을 수 있을 텐데…”
+“Para makita mo ang kailangan mo kahit wala ako sa tabi mo…”
+
+71
+00:03:51,179 --> 00:03:55,471
+어머니의 목소리에는 깊은 슬픔이 담겨 있었어요.
+Puno ng lungkot ang tinig ng ina.
+
+72
+00:03:55,471 --> 00:03:56,706
+“피나야…?”
+“Pina…?”
+
+73
+00:03:56,706 --> 00:04:01,749
+조금 전까지 들리던 피나의 목소리가 더 이상 들리지 않았답니다.
+Biglang tumahimik ang buong bahay. Hindi na marinig ang tinig ni Pina.
+
+74
+00:04:01,749 --> 00:04:04,284
+그런데 바로 그때였어요.
+Ngunit sa sandaling iyon…
+
+75
+00:04:04,284 --> 00:04:06,160
+“피나야! 어디 있니?”
+“Pina! Nasaan ka?”
+
+76
+00:04:06,160 --> 00:04:08,423
+어머니는 몇 번이고 불렀어요.
+Paulit-ulit na tumawag ang ina.
+
+77
+00:04:08,423 --> 00:04:14,096
+“엄마가 아까는 속상해서 그랬단다. 피나야, 대답해 주렴…”
+“Anak, nasabi ko lang iyon dahil sa lungkot. Pina, sumagot ka sana…”
+
+78
+00:04:14,096 --> 00:04:17,433
+하지만 아무런 대답도 들리지 않았어요.
+Ngunit walang sumagot.
+
+79
+00:04:17,433 --> 00:04:20,424
+“무슨 일이에요? 어디가 편찮으세요?”
+“Ano po ang nangyari? May sakit po ba kayo?”
+
+80
+00:04:20,424 --> 00:04:22,758
+이웃들이 걱정하며 찾아왔어요.
+Nag-aalalang dumating ang mga kapitbahay.
+
+81
+00:04:22,758 --> 00:04:24,920
+“우리 피나가 사라졌어요…”
+“Nawawala ang anak kong si Pina…”
+
+82
+00:04:24,920 --> 00:04:28,699
+“걱정 마세요. 저희가 함께 찾아드릴게요.”
+“Huwag kayong mag-alala. Tutulungan namin kayong hanapin siya.”
+
+83
+00:04:28,699 --> 00:04:33,659
+이웃들은 따뜻한 죽을 끓여 주며 어머니를 보살폈어요.
+Ipinagluto nila ng mainit na lugaw ang ina at inalagaan siya.
+
+84
+00:04:33,659 --> 00:04:37,094
+몸이 나은 어머니는 온 마을을 돌아다녔어요.
+Nang gumaling ang ina, hinanap niya si Pina sa buong nayon.
+
+85
+00:04:37,094 --> 00:04:39,097
+“혹시 우리 피나를 보셨나요?”
+“Nakita po ba ninyo ang anak kong si Pina?”
+
+86
+00:04:39,097 --> 00:04:41,793
+“미안해요. 아직 보지 못했어요.”
+“Paumanhin, hindi pa namin siya nakikita.”
+
+87
+00:04:41,793 --> 00:04:44,897
+“피나야, 엄마가 기다리고 있단다…”
+“Pina, hinihintay ka ni Inay…”
+
+88
+00:04:44,897 --> 00:04:48,255
+어머니는 날마다 딸을 그리워했어요.
+Araw-araw na nangulila ang ina sa kaniyang anak.
+
+89
+00:04:48,255 --> 00:04:53,210
+어느 날 아침, 어머니는 뒤뜰에서 신기한 열매를 발견했어요.
+Isang umaga, may nakitang kakaibang bunga ang ina sa likod-bahay.
+
+90
+00:04:53,210 --> 00:04:55,305
+“어머, 이건 무슨 열매일까?”
+“Naku, anong prutas kaya ito?”
+
+91
+00:04:55,305 --> 00:04:58,582
+“이렇게 눈이 많은 열매는 처음 보는구나!”
+“Ngayon lang ako nakakita ng bungang napakaraming mata!”
+
+92
+00:04:58,582 --> 00:05:04,700
+뾰족한 잎 사이에 달린 열매에는 작은 눈 같은 무늬가 가득했어요.
+Puno ng maliliit na hugis-mata ang bunga sa gitna ng matutulis na dahon.
+
+93
+00:05:04,700 --> 00:05:08,085
+어머니는 문득 자신이 했던 말을 떠올렸어요.
+Biglang naalala ng ina ang kaniyang sinabi noon.
+
+94
+00:05:08,085 --> 00:05:11,488
+“눈이 천 개나 있다면 좋겠다고 했는데…”
+“Sana ay magkaroon ka ng isang libong mata…”
+
+95
+00:05:11,488 --> 00:05:13,688
+“피나야… 혹시 너니?”
+“Pina… Ikaw ba iyan?”
+
+96
+00:05:13,688 --> 00:05:16,643
+어머니는 열매를 다정히 어루만졌어요.
+Marahang hinaplos ng ina ang bunga.
+
+97
+00:05:16,643 --> 00:05:21,273
+“사랑하는 피나야, 엄마는 언제나 너를 사랑한단다.”
+“Mahal kong Pina, mamahalin kita magpakailanman.”
+
+98
+00:05:21,273 --> 00:05:25,314
+어머니는 그 열매를 피나처럼 소중하게 돌보았어요.
+Inalagaan ng ina ang halaman na parang si Pina.
+
+99
+00:05:25,314 --> 00:05:29,731
+“참 달콤한 과일이네요! 이름이 무엇인가요?”
+“Napakatamis ng prutas na ito! Ano ang pangalan nito?”
+
+100
+00:05:29,731 --> 00:05:33,441
+“우리 딸 피나를 기억하며 ‘피냐’라고 부르고 싶어요.”
+“Gusto kong tawagin itong ‘Pinya,’ bilang alaala sa anak kong si Pina.”
+
+101
+00:05:33,441 --> 00:05:38,683
+그날부터 사람들은 그 열매를 ‘피냐(Pinya)’, 파인애플이라고 불렀답니다.
+Mula noon, tinawag ng mga tao ang prutas na “Pinya.”
+
+102
+00:05:38,683 --> 00:05:43,552
+피나의 이야기는 사람들의 마음속에 오래도록 남았어요.
+Nanatili sa puso ng mga tao ang kuwento ni Pina.
+
+103
+00:05:43,552 --> 00:05:48,562
+파인애플의 수많은 눈은 우리에게 소중한 가르침을 전해 줍니다.
+Ang maraming mata ng pinya ay nagpapaalala sa atin ng isang mahalagang aral.
+
+104
+00:05:48,562 --> 00:05:56,514
+작은 일부터 스스로 해 보고, 사랑하는 사람의 마음을 살피며, 서로에게 따뜻한 말을 건네보세요.
+Matutong gawin ang maliliit na bagay nang mag-isa, damhin ang nararamdaman ng mga mahal sa buhay, at magsalita nang may kabaitan.
+
+105
+00:05:56,514 --> 00:06:02,211
+진정한 사랑은 작은 실천과 배려에서 시작된답니다.
+Ang tunay na pag-ibig ay nagsisimula sa maliit na gawa ng pag-aalaga at konsiderasyon.
